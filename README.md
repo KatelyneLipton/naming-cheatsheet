@@ -3,7 +3,7 @@
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
   </a>
 </p>
-#lalabla
+#lalablala
 # Naming cheatsheet
 
 - [English language](#english-language)

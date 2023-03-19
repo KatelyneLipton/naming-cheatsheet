@@ -5,7 +5,7 @@
 </p>
 #lalablala
 # Naming cheatsheet
-#fu
+#fula
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
 - [S-I-D](#s-i-d)

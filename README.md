@@ -3,7 +3,11 @@
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
   </a>
 </p>
+<<<<<<< HEAD
 #laXylulula
+=======
+#lalablala
+>>>>>>> branch1
 # Naming cheatsheet
 
 - [English language](#english-language)
